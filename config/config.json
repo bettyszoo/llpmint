@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE609927280D09d25f1540Da3591e40ef40e3D939",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE609927280D09d25f1540Da3591e40ef40e3D939",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Legendary Location Pass",
+  "SYMBOL": "LLP",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/legendary-location-pass",
+  "SHOW_BACKGROUND": true
+}
